@@ -1,0 +1,7 @@
+Decalring a varaible:
+
+
+var and let are the key worrds
+var is ES6 and let is ES7.
+
+strict is the keyword when you dont want to allow ES6 syntax to be used in your code.
